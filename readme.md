@@ -1,4 +1,4 @@
-A tool for managing JavaScript projects with multiple packages.
+Lerna is a tool for managing JavaScript projects with multiple packages.
 
 
 packages:<br> 
